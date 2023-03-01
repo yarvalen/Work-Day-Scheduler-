@@ -1,7 +1,7 @@
 # Work Day Scheduler 
 
 ## ScreenShot
-<img src="/Users/bluevalenz/bootcamp/Work Day Scheduler/images/Work Day Scheduler.png">
+<img src="Work Day Scheduler/images/Work Day Scheduler.png">
 
 ## Description 
 This calendar was developed for the user to organize there work day from 9am-5pm. With the addition of being able to save tasks for each hour and not losing information when page is reloaded. The features that were used in the development of this page was HTML, day.js,CSS, and jQuery. The primary focus was to become familiar with day.js
