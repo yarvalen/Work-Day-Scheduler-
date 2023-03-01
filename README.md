@@ -8,7 +8,7 @@ This calendar was developed for the user to organize there work day from 9am-5pm
 
 ## Installation
 Link to use the day scheduler
-
+https://yarvalen.github.io/Work-Day-Scheduler-/
 
 ## Resources
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
